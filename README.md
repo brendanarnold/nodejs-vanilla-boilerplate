@@ -3,7 +3,9 @@
 
 ## Developer setup
 
-TODO
+```
+npm install
+```
 
 ## Deployment
 
@@ -11,7 +13,9 @@ TODO
 
 ## Running tests
 
-TODO
+```
+npm test
+```
 
 ## Filing issues
 
