@@ -1,2 +1,7 @@
-let message: string = 'Hello World';
-console.log(message);
+
+const message = 'Hello World'
+console.log(message)
+
+module.exports = {
+  message
+}
