@@ -1,7 +1,6 @@
 
-const message = 'Hello World'
-console.log(message)
+const isNumber = input => typeof input === 'number'
 
 module.exports = {
-  message
+  isNumber
 }
