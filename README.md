@@ -7,6 +7,12 @@
 npm install
 ```
 
+To develop tests (sets up watcher)
+
+```
+npm run dev:test
+```
+
 ## Deployment
 
 TODO
